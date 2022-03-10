@@ -1,0 +1,2 @@
+void setupTemperatura();
+int sensorTemperatura();
