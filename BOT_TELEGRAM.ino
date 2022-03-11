@@ -4,8 +4,8 @@
 #include <UniversalTelegramBot.h> //libreria per telegram (meglio non modificare)
 
 //Se definen credenciales de la red y el chatbot
-#define WIFI_SSID "MARIO23561" //nome wifi (potete modificarlo) TP-LINK_DE16
-#define PASSWORD_WIFI "bandaancha09" //password wifi (potete modificarlo) 67743667
+#define WIFI_SSID "TP-LINK_DE16" //nome wifi (potete modificarlo) 
+#define PASSWORD_WIFI "67743667" //password wifi (potete modificarlo) 
 #define BOT_API_TOKEN "5065672666:AAGt8BpeFDJIcE0wJIm9pIhombruJzDhhQI" //token chatbot telegram (potete modificarlo)
 
 //Incluir archivos de los sensores
